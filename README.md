@@ -2,7 +2,7 @@
 
 ## Microanimations.
 
-### Rive and Lottie 
+### Rive Animations (These are some of free animations with CC license) 
 
 | description | Preview |
 |-----------------|:-------------|
@@ -20,3 +20,37 @@
 | Sucess | <img src="https://github.com/Imgkl/flutter_possibilities/blob/main/check.gif?raw=true" width="250" height="250"/>  |
 | Scan QR | <img src="https://github.com/Imgkl/flutter_possibilities/blob/main/qr.gif?raw=true" width="250" height="250"/>  |
 
+### Lottie Animations
+
+ - https://lottiefiles.com
+ - There are ton of after effects animations, in Flutter we can use it directly using a plugin.
+ 
+### Github Repos 
+ - Good error screens- https://github.com/abuanwar072/20-Error-States-Flutter 
+ - Animated Login - https://drive.google.com/file/d/1SdzRE_h73UVWByjUwFL1cPVFmDHtuGSB/view?usp=drivesdk
+ - Gradient circle backgrounds 
+    - https://github.com/Imgkl/FlikiPedia
+    - https://github.com/Imgkl/Quote
+ - Liquid swipe (for onboarding screens) -  https://github.com/iamSahdeep/liquid_swipe_flutter
+ - Masterclass instructor Page replica - https://drive.google.com/file/d/18jD82QwC_TMVrpEK7yc1OLLvouwCCmMR/view?usp=sharing (this also has an interesting bottom bar)
+ - ADDING MORE
+ 
+ ### Interesting Packages
+ - [flutter_slidable](https://pub.dev/packages/flutter_slidable)
+ - [timeline_tile](https://pub.dev/packages/timeline_tile)
+ - [confetti](https://pub.dev/packages/confetti)
+ - [step_progress_indicator](https://pub.dev/packages/step_progress_indicator)
+ - [giffy_dialog](https://pub.dev/packages/giffy_dialog)
+ - [dough](https://pub.dev/packages/dough)
+ - [salomon_bottom_bar](https://pub.dev/packages/salomon_bottom_bar)
+ - [scratcher](https://pub.dev/packages/scratcher)
+ - [slimy_card](https://pub.dev/packages/slimy_card)
+ - [flip_card](https://pub.dev/packages/flip_card)
+ - [parallax_image](https://pub.dev/packages/parallax_image)
+ - [flutter_animated_dialog](https://pub.dev/packages/flutter_animated_dialog)
+ - [animated_text](https://pub.dev/packages/animated_text)
+ - [liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator)
+ - [home_widget](https://pub.dev/packages/home_widget)
+ - [concentric_transition](https://pub.dev/packages/concentric_transition) (Can be used as onboading screens)
+ - [Wiredash](https://pub.dev/packages/wiredash) (interactive feedback collection)
+ - ADDING MORE
