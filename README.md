@@ -40,6 +40,7 @@
  - [timeline_tile](https://pub.dev/packages/timeline_tile)
  - [confetti](https://pub.dev/packages/confetti)
  - [step_progress_indicator](https://pub.dev/packages/step_progress_indicator)
+ - [stepper](https://pub.dev/packages/stepper_counter_swipe)
  - [giffy_dialog](https://pub.dev/packages/giffy_dialog)
  - [dough](https://pub.dev/packages/dough)
  - [salomon_bottom_bar](https://pub.dev/packages/salomon_bottom_bar)
