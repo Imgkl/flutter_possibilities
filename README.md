@@ -1,6 +1,6 @@
-# Things that can be achived in flutter and other cool UI elements 
 
-## Microanimations.
+
+# Microanimations.
 
 ### Rive Animations (These are some of free animations with CC license) 
 
@@ -25,7 +25,7 @@
  - https://lottiefiles.com
  - There are ton of after effects animations, in Flutter we can use it directly using a plugin.
  
-### Github Repos 
+# Github Repos 
  - Good error screens- https://github.com/abuanwar072/20-Error-States-Flutter 
  - Animated Login - https://drive.google.com/file/d/1SdzRE_h73UVWByjUwFL1cPVFmDHtuGSB/view?usp=drivesdk
  - Gradient circle backgrounds 
@@ -35,7 +35,7 @@
  - Masterclass instructor Page replica - https://drive.google.com/file/d/18jD82QwC_TMVrpEK7yc1OLLvouwCCmMR/view?usp=sharing (this also has an interesting bottom bar)
  - ADDING MORE
  
- ### Interesting Packages
+# Interesting Packages
  - [flutter_slidable](https://pub.dev/packages/flutter_slidable)
  - [timeline_tile](https://pub.dev/packages/timeline_tile)
  - [confetti](https://pub.dev/packages/confetti)
