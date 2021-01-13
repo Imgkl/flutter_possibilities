@@ -18,5 +18,5 @@
 | Sucess Aminamtion | <img src="https://github.com/Imgkl/flutter_possibilities/blob/main/Screen%20Recording%202021-01-09%20at%202.17.27%20AM.gif?raw=true" width="250" height="250"/> |
 | Orb | <img src="https://github.com/Imgkl/flutter_possibilities/blob/main/Screen%20Recording%202021-01-09%20at%202.17.54%20AM.gif?raw=true" width="250" height="250"/> |
 | Sucess | <img src="https://github.com/Imgkl/flutter_possibilities/blob/main/check.gif?raw=true" width="250" height="250"/>  |
-| Sucess | <img src="https://github.com/Imgkl/flutter_possibilities/blob/main/qr.gif?raw=true" width="250" height="250"/>  |
+| Scan QR | <img src="https://github.com/Imgkl/flutter_possibilities/blob/main/qr.gif?raw=true" width="250" height="250"/>  |
 
