@@ -26,13 +26,13 @@
  - There are ton of after effects animations, in Flutter we can use it directly using a plugin.
  
 # Github Repos 
- - Good error screens- https://github.com/abuanwar072/20-Error-States-Flutter 
- - Animated Login - https://drive.google.com/file/d/1SdzRE_h73UVWByjUwFL1cPVFmDHtuGSB/view?usp=drivesdk
+ - Good error screens- [Error states](https://github.com/abuanwar072/20-Error-States-Flutter)
+ - Animated Login - [Google Drive](https://drive.google.com/file/d/1SdzRE_h73UVWByjUwFL1cPVFmDHtuGSB/view?usp=drivesdk)
  - Gradient circle backgrounds 
-    - https://github.com/Imgkl/FlikiPedia
-    - https://github.com/Imgkl/Quote
- - Liquid swipe (for onboarding screens) -  https://github.com/iamSahdeep/liquid_swipe_flutter
- - Masterclass instructor Page replica - https://drive.google.com/file/d/18jD82QwC_TMVrpEK7yc1OLLvouwCCmMR/view?usp=sharing (this also has an interesting bottom bar)
+    - [Flikipedia](https://github.com/Imgkl/FlikiPedia)
+    - [Quotes](https://github.com/Imgkl/Quote)
+ - Liquid swipe (for onboarding screens) -  [Liquid repo](https://github.com/iamSahdeep/liquid_swipe_flutter)
+ - Masterclass instructor Page replica - [Google Drive](https://drive.google.com/file/d/18jD82QwC_TMVrpEK7yc1OLLvouwCCmMR/view?usp=sharing) (this also has an interesting bottom bar)
  - ADDING MORE
  
 # Interesting Packages
